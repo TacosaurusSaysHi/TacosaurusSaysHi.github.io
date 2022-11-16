@@ -1,7 +1,7 @@
 by Andi Semaña
 # **Hello there! Here are three (3) things I like to do:** 😃
-- Simple drawing or sketching :pencil:
-- Reading stories via book, tv show, or movie :book:
+- Simple drawing or sketching ✏️:
+- Reading stories via book, tv show, or movie 📖:
 - Taking pictures of nature 🥬:
 - Learning about the world in general 🗺️:
 
