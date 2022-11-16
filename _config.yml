@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: *Brought to you by Maria Andrea R. Semaña!*
+description: **Hello there! Here are three (3) things I like to do:**
