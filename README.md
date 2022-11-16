@@ -1,7 +1,5 @@
-# TacosaurusSaysHi.github.io
-♥️*Brought to you by Maria Andrea R. Semaña!* :heart:
 
-**Hello there! Here are three (3) things I like to do:** 😃
+#**Hello there! Here are three (3) things I like to do:** 😃
 - Simple drawing or sketching :pencil:
 - Reading stories via book, tv show, or movie :book:
 - Taking pictures of nature 🥬:
