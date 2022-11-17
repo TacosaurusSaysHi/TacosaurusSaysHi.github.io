@@ -12,3 +12,6 @@ Random photo I took of a gumamela flower:
 
 bread lol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3WC-X7xDNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Personal study playlist
+[yessss](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT)
