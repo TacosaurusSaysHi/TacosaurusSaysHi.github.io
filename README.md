@@ -1,5 +1,5 @@
-#My GitHub Page
-##Check out some random things with me I guess
+# My GitHub Page
+## Check out some random things with me I guess
 
 ### **Hello! Let's look at stuff I like to do:** 😃
 - Simple drawing or sketching ✏️
@@ -7,7 +7,7 @@
 - Taking pictures of nature 🥬
 - Learning about the world in general 🗺️
 
-###Andi's Item Dump
+### Andi's Item Dump
 *Here are some stuff I wanna share*
 
 Random photo I took of a gumamela flower:
