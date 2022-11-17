@@ -1,10 +1,13 @@
-# **Hello! Let's look at stuff I like to do:** 😃
+#My GitHub Page
+##Check out some random things with me I guess
+
+### **Hello! Let's look at stuff I like to do:** 😃
 - Simple drawing or sketching ✏️
 - Reading stories via book, tv show, or movie 📖
 - Taking pictures of nature 🥬
 - Learning about the world in general 🗺️
 
-**Andi's Item Dump**
+###Andi's Item Dump
 *Here are some stuff I wanna share*
 
 Random photo I took of a gumamela flower:
@@ -13,5 +16,4 @@ Random photo I took of a gumamela flower:
 bread lol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3WC-X7xDNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Personal study playlist
-[yessss](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT)
+[Personal Study Playlist](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT)
