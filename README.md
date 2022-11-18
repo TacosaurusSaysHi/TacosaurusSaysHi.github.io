@@ -2,7 +2,7 @@
 
 ## Welcome to the Cozy Spot! Here I compile wholeome content that could help you calm down and focus. Enjoy! :heart: 
 
-**Preparation** :clipboard: 
+**Preparation :clipboard:** 
 
 *Before you begin, it is best that you think about what conditions you may be in during your study. For this, I recommend:*
 
@@ -12,7 +12,7 @@
 - Preparing a to-do list helps organize your thoughts and clears any confusiuon.
 - As a bonus, have the [personal study playlist](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT) I once made for myself. 
 
-**Natural Vibes** :cherry_blossom:
+**Natural Vibes :cherry_blossom:** 
 
 *Here are some photos I took of flowers found near our home. I hope you enjoy!*
 
@@ -21,10 +21,10 @@
 ![white](https://user-images.githubusercontent.com/118245646/202395890-a1a913be-82b1-4123-88ab-5bef09f06f6e.jpg)
 ![bounganvilla](https://user-images.githubusercontent.com/118245646/202395948-4c884ce1-72bf-4c52-8197-3271c6212dee.jpg)
 
-**Motivation** :smiley:
+**Motivation :smiley:** 
 
 *Have some cool motivation for life*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/arj7oStGLkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**More coming soon!** :new:
+**More coming soon!:new:** 
