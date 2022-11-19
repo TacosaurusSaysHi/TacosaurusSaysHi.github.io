@@ -1,6 +1,6 @@
 # The Cozy Spot
 
-## Welcome to the Cozy Spot! Here I compile wholeome content that could help you calm down and focus. Enjoy! ❤️ 
+## Welcome to the Cozy Spot! Here I compile wholesome content that could help you calm down and focus. Enjoy! ❤️ 
 
 **Preparation 📋**
 
