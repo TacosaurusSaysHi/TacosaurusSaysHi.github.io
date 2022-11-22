@@ -1,4 +1,5 @@
 # The Cozy Spot
+![Cabin](https://user-images.githubusercontent.com/118245646/203219749-5e469cab-4373-4830-8091-192054122b9e.jpg)
 
 ## Welcome to the Cozy Spot! Here I compile wholesome content that could help you calm down and focus. Enjoy! ❤️ 
 
