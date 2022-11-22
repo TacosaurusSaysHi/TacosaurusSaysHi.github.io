@@ -37,10 +37,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/djV11Xbc914" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *10/10 always in my head*
 
-- Pure joy
+- wholesome vibes for you (trust me you don't have to play the games to appreciate this pure joy)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zA9zwpMj_8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*Me manifesting a sonic game :(*
+mmmmmm yesssss gimme that fluid animation 
 
 - calm song
 
