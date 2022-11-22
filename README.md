@@ -6,11 +6,11 @@
 
 *Before you begin, it is best that you think about what conditions you may be in during your study. For this, I recommend:*
 
-- Taking care of other problems or responsibilities before studying. Doing so helps you focus more on your schoolwork; thus helping to block out all forms of procastination.
-- Cleaning/organizing your study area. This makes it easier to find your learning materials and requirements.
-- Having a snack/drink ready. If you get hungry during study, you'd immeadiately have some food ready to eat.
-- Preparing a to-do list helps organize your thoughts and clears any confusiuon.
-- As a bonus, have the [personal study playlist](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT) I once made for myself. 
+- **Taking care of other problems or responsibilities before studying.** Doing so helps you focus more on your schoolwork; thus helping to block out all forms of procastination.
+- **Cleaning/organizing your study area.** This makes it easier to find your learning materials and requirements.
+- **Having a snack/drink ready.** If you get hungry during study, you'd immeadiately have some food ready to eat.
+- Preparing a **to-do list** helps organize your thoughts and clears any confusiuon.
+- As a bonus, have the [**personal study playlist**](https://www.youtube.com/playlist?list=PLcjemlHEEbxNgTgK0D-aIU8Eho2Wia-pT) I once made for myself. 
 
 **Natural Vibes 🌸** 
 
