@@ -66,5 +66,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXVZVCoaxM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > I think this has gone far too chaotic.
 
-**Thank you for your time! Good luck studying!**
+**Thank you for your time! Good luck studying!🎊**
 <div class="tenor-gif-embed" data-postid="17402852" data-share-method="host" data-aspect-ratio="0.609375" data-width="100%"><a href="https://tenor.com/view/piplup-happy-joy-clap-pokemon-gif-17402852">Piplup Happy GIF</a>from <a href="https://tenor.com/search/piplup-gifs">Piplup GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
